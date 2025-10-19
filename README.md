@@ -3,24 +3,33 @@
 개발광들을 쫓는 백엔드 개발자 지망생입니다.  
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Backend
-Java | Spring Boot | MyBatis |  Maven / Gradle | WebSocket (SockJS / STOMP)
+### 💡 Language
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 🗄 Database
-MySQL | JDBC | ERD 설계 | 
+---
 
-### ☁️ Infra / DevOps
-Linux (Ubuntu) | Git / GitHub
+### ⚙️ Back-End
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-### 🧩 Front-End
-React (CRA / Vite) | JavaScript | HTML / CSS |   
+---
 
-### 🧠 SAP / ERP
+### 🎨 Front-End
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### ⚙️ Tools
-VS Code | Eclipse | Postman  |
+---
+
+### ☁️ ETC
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 
 ---
 
