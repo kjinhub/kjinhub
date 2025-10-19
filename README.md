@@ -28,11 +28,6 @@
 
 ---
 
-## ⚙️ Total Stats (연도별 세부)
-![Metrics](https://metrics.lecoq.io/kjinhub?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year&config.timezone=Asia%2FSeoul)
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Backend
