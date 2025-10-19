@@ -1,16 +1,45 @@
 # 🧑‍💻 최국진 | Backend 
 
 개발광들을 쫓는 백엔드 개발자 지망생입니다.  
+---
+
+## 📊 GitHub 통계  
+
+<div align="center">
+
+### 🧮 기본 통계
+![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinhub&show_icons=true&theme=tokyonight)
+
+### 🔥 연속 커밋 통계
+![GitHub Streak](https://streak-stats.demolab.com?user=kjinhub&theme=tokyonight)
+
+### 🗂️ 사용 언어 비율
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjinhub&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🏆 GitHub Summary Card (활동 요약)
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjinhub&theme=tokyonight)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kjinhub&theme=tokyonight)
+![Productive Time Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kjinhub&theme=tokyonight&utcOffset=9)
+
+---
+
+## ⚙️ Total Stats (연도별 세부)
+![Metrics](https://metrics.lecoq.io/kjinhub?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&followup=1&isocalendar.duration=full-year&config.timezone=Asia%2FSeoul)
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Backend
-Java | Spring Boot | MyBatis |  Maven / Gradle | Lombok  | WebSocket (SockJS / STOMP)
+Java | Spring Boot | MyBatis |  Maven / Gradle | WebSocket (SockJS / STOMP)
 
 ### 🗄 Database
-MySQL | JDBC | SQL | ERD 설계 | 
+MySQL | JDBC | ERD 설계 | 
 
 ### ☁️ Infra / DevOps
 Linux (Ubuntu) | Git / GitHub
@@ -22,16 +51,6 @@ React (CRA / Vite) | JavaScript | HTML / CSS |
 
 ### ⚙️ Tools
 VS Code | Eclipse | Postman  |
-
----
-
-
-## 📊 GitHub Stats  
-
-![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinhub&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjinhub&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=kjinhub&theme=tokyonight)
-
 
 ---
 ## 🚀 Projects
