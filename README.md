@@ -3,6 +3,27 @@
 개발광들을 쫓는 백엔드 개발자 지망생입니다.  
 ---
 
+## 🛠 Tech Stack
+
+### 💻 Backend
+Java | Spring Boot | MyBatis |  Maven / Gradle | WebSocket (SockJS / STOMP)
+
+### 🗄 Database
+MySQL | JDBC | ERD 설계 | 
+
+### ☁️ Infra / DevOps
+Linux (Ubuntu) | Git / GitHub
+
+### 🧩 Front-End
+React (CRA / Vite) | JavaScript | HTML / CSS |   
+
+### 🧠 SAP / ERP
+
+### ⚙️ Tools
+VS Code | Eclipse | Postman  |
+
+---
+
 ## 📊 GitHub 통계  
 
 <div align="center">
@@ -26,26 +47,6 @@
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kjinhub&theme=tokyonight)
 ![Productive Time Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kjinhub&theme=tokyonight&utcOffset=9)
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Backend
-Java | Spring Boot | MyBatis |  Maven / Gradle | WebSocket (SockJS / STOMP)
-
-### 🗄 Database
-MySQL | JDBC | ERD 설계 | 
-
-### ☁️ Infra / DevOps
-Linux (Ubuntu) | Git / GitHub
-
-### 🧩 Front-End
-React (CRA / Vite) | JavaScript | HTML / CSS |   
-
-### 🧠 SAP / ERP
-
-### ⚙️ Tools
-VS Code | Eclipse | Postman  |
 
 ---
 ## 🚀 Projects
