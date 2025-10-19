@@ -26,7 +26,7 @@ VS Code | Eclipse | Postman  |
 
 ## 📊 GitHub 통계  
 
-<div align="center">
+<div align="center" style="border: 2px solid #6c63ff; border-radius: 12px; padding: 20px; display: inline-block;">
 
 ### 🧮 기본 통계
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinhub&show_icons=true&theme=tokyonight)
