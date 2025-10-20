@@ -67,7 +67,6 @@
 ---
 
 ## 📫 Contact
-**Email:** kjinhub@gmail.com  
-**GitHub:** [github.com/kjinhub](https://github.com/kjinhub)
+**Email:** ckg2427@naver.com  
 
 ---
