@@ -61,7 +61,7 @@
 |----------|--------|-------------|
 | **AI-Matching-Backend** | Spring Boot, MyBatis, GPT API | AI 면접 매칭 서비스 백엔드 |
 | **Club Application Platform** | Spring Boot, React | 동아리 지원 관리 시스템 |
-| **Workout Management (Fweek)** | Node.js, Express | 개인 운동 루틴 및 헬스 데이터 관리 |
+| **🗨️ WebSocket Chat App (Spring Boot + React)** | SpringBoot,React| 울산<->진주 채팅 웹앱 |
 | **OCR-TTS Prescription App** | Flask, React | 처방전 문자 인식 + 음성 안내 |
 
 ---
