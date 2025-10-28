@@ -37,8 +37,6 @@
 ### 🧮 기본 통계
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjinhub&show_icons=true&theme=tokyonight)
 
-### 🔥 연속 커밋 통계
-![GitHub Streak](https://streak-stats.demolab.com?user=kjinhub&theme=tokyonight)
 
 ### 🗂️ 사용 언어 비율
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjinhub&layout=compact&theme=tokyonight)
