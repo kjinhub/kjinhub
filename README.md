@@ -20,15 +20,12 @@
 
 
 
-📊 GitHub Analytics
-<div align="center" style="margin-top: 15px;">
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kjinhub&theme=tokyonight" height="160px" /> <br/> <img src="https://github-readme-stats.vercel.app/api?username=kjinhub&show_icons=true&theme=tokyonight" height="160px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjinhub&layout=compact&theme=tokyonight" height="160px"/>
 
+<br/><br/>
 
-🏆 Summary Cards
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjinhub&theme=tokyonight" width="100%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kjinhub&theme=tokyonight" height="150"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kjinhub&theme=tokyonight&utcOffset=9" height="150"/> </div>
-
-
-
+<a href="https://solved.ac/kjin2427"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjin2427" height="150px"> </a> </div>
 ```
 🚀 Projects
 Project	Stack	Description
