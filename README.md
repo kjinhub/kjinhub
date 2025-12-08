@@ -22,11 +22,7 @@
 
 📊 GitHub Analytics
 <div align="center" style="margin-top: 15px;">
-📈 Contribution Overview
-<img src="https://github-readme-stats.vercel.app/api?username=kjinhub&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  
-🗂️ Language Usage
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjinhub&layout=compact&theme=tokyonight&langs_count=10" height="180"/>
+
 
 🏆 Summary Cards
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjinhub&theme=tokyonight" width="100%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kjinhub&theme=tokyonight" height="150"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kjinhub&theme=tokyonight&utcOffset=9" height="150"/> </div>
