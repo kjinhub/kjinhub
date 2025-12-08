@@ -1,10 +1,5 @@
 # 🧑‍💻 최국진 | Backend
 
-## 🚀 Intro
-
-Backend 개발자 최국진입니다.
-(여기에 간단한 소개 문구를 추가하여 README를 더욱 풍성하게 만들어 보세요!)
-
 ---
 
 ## 🛠️ Tech Stack
