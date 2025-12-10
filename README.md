@@ -25,14 +25,13 @@
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kjinhub&theme=tokyonight" height="180"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kjinhub&theme=tokyonight&utcOffset=9" height="180"/> </div>
+
 ```
 🚀 Projects
 Project	Stack	Description
-AI-Matching-Backend	Spring Boot · MyBatis · GPT API	AI 면접 문항·답변 매칭 엔진 백엔드. 사용자 입력 기반으로 적합한 문제 추천 및 평가 로직 구현.
-
 Club Application Platform	Spring Boot · React	학과 동아리 지원부터 심사·면접·관리까지 통합한 플랫폼. 팀 프로젝트 전체 아키텍처·API 설계 담당.
 
-WebSocket Chat App	Spring Boot · WebSocket · React	울산 ↔ 진주 실시간 협업을 위해 제작한 채팅 시스템. 세션 관리 및 실시간 메시지 브로드캐스팅 구현.
+WebSocket Chat App	Spring Boot · WebSocket · React	울산 ↔ 진주 실시간 채팅 시스템.
 
 OCR-TTS Prescription App	Flask · OCR · React	처방전 텍스트 자동 추출 + 음성 안내 시스템. 고령자 접근성을 높이기 위한 의료 서비스.
 ```
