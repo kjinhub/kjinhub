@@ -47,4 +47,5 @@ Docker·Nginx를 활용한 개인 서버 운영 및 배포 자동화
 
 📧 Email: ckg2427@naver.com
 
-📁 Portfolio Repository: https://github.com/kjinhub
+📁 Portfolio Repository:[ https://github.com/kjinhub](https://www.notion.so/it-s-me-256f29bf727a80be984ed21193413aaa
+)
