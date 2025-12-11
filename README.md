@@ -32,7 +32,7 @@ Club Application Platform	Spring Boot · React	학과 동아리 지원부터 심
 
 WebSocket Chat App	Spring Boot · WebSocket · React	울산 ↔ 진주 실시간 채팅 시스템.
 
-OCR-TTS Prescription App	Flask · OCR · React	처방전 텍스트 자동 추출 + 음성 안내 시스템. 고령자 접근성을 높이기 위한 의료 서비스.
+OCR-TTS Prescription App	Flask · OCR · React	처방전 텍스트 자동 추출
 ```
 
 
