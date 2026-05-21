@@ -1,10 +1,5 @@
 ## 🧑‍💻 최국진 | Backend Developer
 
-### 🏅 Algorithm (BOJ)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckg2427)
-[![Solved.ac Tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=ckg2427)](https://solved.ac/profile/ckg2427)
-
----
 
 ## 🛠️ Tech Stack
 
