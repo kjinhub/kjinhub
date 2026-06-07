@@ -23,24 +23,6 @@
 
 ---
 
-## 🚀 Projects
-
-| Project | Stack | Description |
-|-------|------|-------------|
-| **Club Application Platform** | Spring Boot · React | 학과 동아리 지원부터 심사·면접·관리까지 통합한 플랫폼. 팀 프로젝트 전체 아키텍처 및 API 설계 담당 |
-| **WebSocket Chat App** | Spring Boot · WebSocket · React | 울산 ↔ 진주 실시간 채팅 시스템 |
-| **OCR-TTS Prescription App** | Flask · OCR · React | 처방전 텍스트 자동 추출 및 음성 변환 서비스 |
-
----
-
-## 🌱 What I'm Focusing On
-- Spring Boot 기반 REST API 설계 및 성능 최적화  
-- React ↔ Spring Boot 풀스택 아키텍처 구조화  
-- Docker · Nginx 기반 개인 서버 운영 및 배포 자동화  
-- 알고리즘 문제 해결 (BOJ / Solved.ac)
-
----
-
 ## 🏆 GitHub Stats
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kjinhub&theme=tokyonight" width="100%"/>
