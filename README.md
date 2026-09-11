@@ -20,9 +20,7 @@ React 기반 프론트엔드와 서비스 배포까지 경험하고 있습니다
 <a href="https://github.com/kjinhub">
   <img src="https://img.shields.io/badge/GitHub-kjinhub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:ckg2427@naver.com">
-  <img src="https://img.shields.io/badge/Email-ckg2427%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-</a>
+
 <a href="https://www.notion.so/it-s-me-256f29bf727a80be984ed21193413aaa">
   <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
